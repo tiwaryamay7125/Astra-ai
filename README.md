@@ -54,6 +54,11 @@ Make sure that you have installed
    npm run dev
    ```
 6. Open your browser and navigate to http://localhost:3000 to see the website in action.
+7. ## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 
 
 
